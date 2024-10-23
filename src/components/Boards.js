@@ -5,11 +5,11 @@ const Boards = () => {
 
     const contacts = [
       {
-        icon: logo,
+        image: logo,
         name: '3315',
       },
       {
-        icon: logo,
+        image: logo,
         name: 'Jane ',
       },
       // Add more contacts here
